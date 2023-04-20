@@ -1,6 +1,10 @@
 #include <iostream>
+#include <string>
+
 
 
 int main() {
-    std::cout<<"sfsf";
+    string a;
+    cin>>a;
+    std::cout<<"sfsf"<<a;
 }
